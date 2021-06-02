@@ -1,0 +1,30 @@
+[
+    {
+        "model": "db.payoutmethod",
+        "pk": 1,
+        "fields": {
+            "provider_id": 1,
+            "country_id" :32,
+            "BankAccountType_id": 1,
+            "account_holder_name": "William Doyle",
+            "bank_name": "commonwealth bank",
+            "bsb": "123456",
+            "account_number": "12436748",
+            "is_default":"true"
+        }
+    },
+    {
+        "model": "db.payoutmethod",
+        "pk": 2,
+        "fields": {
+            "provider_id": 1,
+            "country_id" :32,
+            "BankAccountType_id": 2,
+            "account_holder_name": "William Doyle",
+            "bank_name": "ANZ",
+            "bsb": "123870",
+            "account_number": "68401758",
+            "is_default":"false"
+        }
+    }
+]
