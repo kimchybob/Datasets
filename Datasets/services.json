@@ -1,0 +1,130 @@
+[
+    {
+        "model": "db.service",
+        "pk": 1,
+        "fields": {
+            "catagory_name": "First Timer Assistance",
+            "service_name": "First Timer Assistance"
+        }
+    },
+    {
+        "model": "db.service",
+        "pk": 2,
+        "fields": {
+            "catagory_name": "Child Entertainment Services",
+            "service_name": "On Slope SnowBoarding"
+        }
+    },
+    {
+        "model": "db.service",
+        "pk": 3,
+        "fields": {
+            "catagory_name": "Child Entertainment Services",
+            "service_name": "On Slope Skiing"
+        }
+    },
+    {
+        "model": "db.service",
+        "pk": 4,
+        "fields": {
+            "catagory_name": "Child Entertainment Services",
+            "service_name": "Off Slope"
+        }
+    },
+    {
+        "model": "db.service",
+        "pk": 5,
+        "fields": {
+            "catagory_name": "Tours",
+            "service_name": "Ski Tour Of The Slopes"
+        }
+    },
+    {
+        "model": "db.service",
+        "pk": 6,
+        "fields": {
+            "catagory_name": "Tours",
+            "service_name": "SnowBoard Tour Of The Slopes"
+        }
+    },
+    {
+        "model": "db.service",
+        "pk": 7,
+        "fields": {
+            "catagory_name": "Tours",
+            "service_name": "Walking Tour Of The Village"
+        }
+    },
+    {
+        "model": "db.service",
+        "pk": 8,
+        "fields": {
+            "catagory_name": "Tours",
+            "service_name": "Ebike BackCountry Touring"
+        }
+    },
+    {
+        "model": "db.service",
+        "pk": 9,
+        "fields": {
+            "catagory_name": "Tours",
+            "service_name": "Hiking"
+        }
+    },
+    {
+        "model": "db.service",
+        "pk": 10,
+        "fields": {
+            "catagory_name": "Activities",
+            "service_name": "Ski BackCountry Touring"
+        }
+    },
+    {
+        "model": "db.service",
+        "pk": 11,
+        "fields": {
+            "catagory_name": "Activities",
+            "service_name": "SnowBoard BackCountry Touring"
+        }
+    },
+    {
+        "model": "db.service",
+        "pk": 12,
+        "fields": {
+            "catagory_name": "Activities",
+            "service_name": "SnowShoeing"
+        }
+    },
+    {
+        "model": "db.service",
+        "pk": 13,
+        "fields": {
+            "catagory_name": "Activities",
+            "service_name": "SnowMobiling"
+        }
+    },
+    {
+        "model": "db.service",
+        "pk": 14,
+        "fields": {
+            "catagory_name": "Activities",
+            "service_name": "Bike Riding"
+        }
+    },
+    {
+        "model": "db.service",
+        "pk": 15,
+        "fields": {
+            "catagory_name": "Virtual Lessons",
+            "service_name": "Skiing"
+        }
+    },
+    {
+        "model": "db.service",
+        "pk": 16,
+        "fields": {
+            "catagory_name": "Virtual Lessons",
+            "service_name": "SnowBoarding"
+        }
+    }
+]

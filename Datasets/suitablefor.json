@@ -1,0 +1,37 @@
+[
+    {
+        "model": "db.suitablefor",
+        "pk": 1,
+        "fields": {
+            "suitable_for": "Toddlers / 3-5yo"
+        }
+    },
+    {
+        "model": "db.suitablefor",
+        "pk": 2,
+        "fields": {
+            "suitable_for": "Kids / 6-12yo"
+        }
+    },
+    {
+        "model": "db.suitablefor",
+        "pk": 3,
+        "fields": {
+            "suitable_for": "Teens / 13-17yo"
+        }
+    },
+    {
+        "model": "db.suitablefor",
+        "pk": 4,
+        "fields": {
+            "suitable_for": "Adult / 18-64yo"
+        }
+    },
+    {
+        "model": "db.suitablefor",
+        "pk": 5,
+        "fields": {
+            "suitable_for": "Senior / 65+"
+        }
+    }
+]

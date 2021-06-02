@@ -1,0 +1,16 @@
+[
+    {
+        "model": "db.cardtype",
+        "pk": 1,
+        "fields": {
+            "type_name": "Mastercard"
+        }
+    },
+    {
+        "model": "db.cardtype",
+        "pk": 2,
+        "fields": {
+            "type_name": "Visa"
+        }
+    }
+]

@@ -1,0 +1,55 @@
+Afrikaans
+Amharic
+Arabic
+Bengali
+Catalan
+Chinese (simplified)
+Chinese (traditional)
+Czech
+Danish
+Dutch
+English (Aus)
+English (CA)
+English (NZ)
+English (UK)
+English (US)
+French
+German
+Greek
+Hebrew
+Hindi
+Hungarian
+Igbo
+Indonesian
+Italian
+Japanese
+Kannada
+Korean
+Latin
+Latvian
+Malay
+Malayalam
+Marathi
+Northern Sotho
+Norwegian
+Persian
+Polish
+Portuguese
+Brazilian
+Punjabi
+Romanian
+Russian
+Scottish Gaelic
+Serbian
+Spanish
+Swahili
+Swedish
+Tamil
+Telugu
+Thai
+Tok Pisin
+Turkish
+Urdu
+Vietnamese
+Xhosa
+Zulu

@@ -1,0 +1,30 @@
+[
+    {
+        "model": "db.bankaccounttype",
+        "pk": 1,
+        "fields": {
+            "type_name": "Savings Account"
+        }
+    },
+    {
+        "model": "db.bankaccounttype",
+        "pk": 2,
+        "fields": {
+            "type_name": "Checking Account"
+        }
+    },
+    {
+        "model": "db.bankaccounttype",
+        "pk": 3,
+        "fields": {
+            "type_name": "Retirement Account"
+        }
+    },
+    {
+        "model": "db.bankaccounttype",
+        "pk": 4,
+        "fields": {
+            "type_name": "Money Market Deposit Account"
+        }
+    }
+]

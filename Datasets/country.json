@@ -1,0 +1,513 @@
+[
+    {
+        "model": "db.country",
+        "pk": 1,
+        "fields": {
+            "country_name": "Poland"
+        }
+    },
+    {
+        "model": "db.country",
+        "pk": 2,
+        "fields": {
+            "country_name": "Germany"
+        }
+    },
+    {
+        "model": "db.country",
+        "pk": 3,
+        "fields": {
+            "country_name": "Canada"
+        }
+    },
+    {
+        "model": "db.country",
+        "pk": 4,
+        "fields": {
+            "country_name": "Netherlands"
+        }
+    },
+    {
+        "model": "db.country",
+        "pk": 5,
+        "fields": {
+            "country_name": "Austria"
+        }
+    },
+    {
+        "model": "db.country",
+        "pk": 6,
+        "fields": {
+            "country_name": "Czech Republic"
+        }
+    },
+    {
+        "model": "db.country",
+        "pk": 7,
+        "fields": {
+            "country_name": "Slovakia"
+        }
+    },
+    {
+        "model": "db.country",
+        "pk": 8,
+        "fields": {
+            "country_name": "Japan"
+        }
+    },
+    {
+        "model": "db.country",
+        "pk": 9,
+        "fields": {
+            "country_name": "USA"
+        }
+    },
+    {
+        "model": "db.country",
+        "pk": 10,
+        "fields": {
+            "country_name": "Switzerland"
+        }
+    },
+    {
+        "model": "db.country",
+        "pk": 11,
+        "fields": {
+            "country_name": "South Korea"
+        }
+    },
+    {
+        "model": "db.country",
+        "pk": 12,
+        "fields": {
+            "country_name": "Georgia"
+        }
+    },
+    {
+        "model": "db.country",
+        "pk": 13,
+        "fields": {
+            "country_name": "Denmark"
+        }
+    },
+    {
+        "model": "db.country",
+        "pk": 14,
+        "fields": {
+            "country_name": "North Caucasus"
+        }
+    },
+    {
+        "model": "db.country",
+        "pk": 15,
+        "fields": {
+            "country_name": "United Kingdom"
+        }
+    },
+    {
+        "model": "db.country",
+        "pk": 16,
+        "fields": {
+            "country_name": "Italy"
+        }
+    },
+    {
+        "model": "db.country",
+        "pk": 17,
+        "fields": {
+            "country_name": "Sweden"
+        }
+    },
+    {
+        "model": "db.country",
+        "pk": 18,
+        "fields": {
+            "country_name": "Greece"
+        }
+    },
+    {
+        "model": "db.country",
+        "pk": 19,
+        "fields": {
+            "country_name": "Spain"
+        }
+    },
+    {
+        "model": "db.country",
+        "pk": 20,
+        "fields": {
+            "country_name": "Iceland"
+        }
+    },
+    {
+        "model": "db.country",
+        "pk": 21,
+        "fields": {
+            "country_name": "Slovenia"
+        }
+    },
+    {
+        "model": "db.country",
+        "pk": 22,
+        "fields": {
+            "country_name": "Bulgaria"
+        }
+    },
+    {
+        "model": "db.country",
+        "pk": 23,
+        "fields": {
+            "country_name": "Finland"
+        }
+    },
+    {
+        "model": "db.country",
+        "pk": 24,
+        "fields": {
+            "country_name": "Ukraine"
+        }
+    },
+    {
+        "model": "db.country",
+        "pk": 25,
+        "fields": {
+            "country_name": "Andorra"
+        }
+    },
+    {
+        "model": "db.country",
+        "pk": 26,
+        "fields": {
+            "country_name": "France"
+        }
+    },
+    {
+        "model": "db.country",
+        "pk": 27,
+        "fields": {
+            "country_name": "Norway"
+        }
+    },
+    {
+        "model": "db.country",
+        "pk": 28,
+        "fields": {
+            "country_name": "Southern Russia"
+        }
+    },
+    {
+        "model": "db.country",
+        "pk": 29,
+        "fields": {
+            "country_name": "Bosnia and Herzegovina"
+        }
+    },
+    {
+        "model": "db.country",
+        "pk": 30,
+        "fields": {
+            "country_name": "Serbia"
+        }
+    },
+    {
+        "model": "db.country",
+        "pk": 31,
+        "fields": {
+            "country_name": "New Zealand"
+        }
+    },
+    {
+        "model": "db.country",
+        "pk": 32,
+        "fields": {
+            "country_name": "Australia"
+        }
+    },
+    {
+        "model": "db.country",
+        "pk": 33,
+        "fields": {
+            "country_name": "Lithuania"
+        }
+    },
+    {
+        "model": "db.country",
+        "pk": 34,
+        "fields": {
+            "country_name": "Chile"
+        }
+    },
+    {
+        "model": "db.country",
+        "pk": 35,
+        "fields": {
+            "country_name": "Brazil"
+        }
+    },
+    {
+        "model": "db.country",
+        "pk": 36,
+        "fields": {
+            "country_name": "Croatia"
+        }
+    },
+    {
+        "model": "db.country",
+        "pk": 37,
+        "fields": {
+            "country_name": "Macedonia"
+        }
+    },
+    {
+        "model": "db.country",
+        "pk": 38,
+        "fields": {
+            "country_name": "Greenland"
+        }
+    },
+    {
+        "model": "db.country",
+        "pk": 39,
+        "fields": {
+            "country_name": "South Africa"
+        }
+    },
+    {
+        "model": "db.country",
+        "pk": 40,
+        "fields": {
+            "country_name": "Northwest Russia"
+        }
+    },
+    {
+        "model": "db.country",
+        "pk": 41,
+        "fields": {
+            "country_name": "Argentina"
+        }
+    },
+    {
+        "model": "db.country",
+        "pk": 42,
+        "fields": {
+            "country_name": "Romania"
+        }
+    },
+    {
+        "model": "db.country",
+        "pk": 43,
+        "fields": {
+            "country_name": "Liechtenstein"
+        }
+    },
+    {
+        "model": "db.country",
+        "pk": 44,
+        "fields": {
+            "country_name": "China"
+        }
+    },
+    {
+        "model": "db.country",
+        "pk": 45,
+        "fields": {
+            "country_name": "Central Russia"
+        }
+    },
+    {
+        "model": "db.country",
+        "pk": 46,
+        "fields": {
+            "country_name": "Armenia"
+        }
+    },
+    {
+        "model": "db.country",
+        "pk": 47,
+        "fields": {
+            "country_name": "Kyrgyzstan"
+        }
+    },
+    {
+        "model": "db.country",
+        "pk": 48,
+        "fields": {
+            "country_name": "Kosovo"
+        }
+    },
+    {
+        "model": "db.country",
+        "pk": 49,
+        "fields": {
+            "country_name": "Hungary"
+        }
+    },
+    {
+        "model": "db.country",
+        "pk": 50,
+        "fields": {
+            "country_name": "Lebanon"
+        }
+    },
+    {
+        "model": "db.country",
+        "pk": 51,
+        "fields": {
+            "country_name": "Belgium"
+        }
+    },
+    {
+        "model": "db.country",
+        "pk": 52,
+        "fields": {
+            "country_name": "Turkey"
+        }
+    },
+    {
+        "model": "db.country",
+        "pk": 53,
+        "fields": {
+            "country_name": "Mongolia"
+        }
+    },
+    {
+        "model": "db.country",
+        "pk": 54,
+        "fields": {
+            "country_name": "Iran"
+        }
+    },
+    {
+        "model": "db.country",
+        "pk": 55,
+        "fields": {
+            "country_name": "United Arab Emirates"
+        }
+    },
+    {
+        "model": "db.country",
+        "pk": 56,
+        "fields": {
+            "country_name": "Far Eastern Federal District"
+        }
+    },
+    {
+        "model": "db.country",
+        "pk": 57,
+        "fields": {
+            "country_name": "Kazakhstan"
+        }
+    },
+    {
+        "model": "db.country",
+        "pk": 58,
+        "fields": {
+            "country_name": "Azerbaijan"
+        }
+    },
+    {
+        "model": "db.country",
+        "pk": 59,
+        "fields": {
+            "country_name": "Montenegro"
+        }
+    },
+    {
+        "model": "db.country",
+        "pk": 60,
+        "fields": {
+            "country_name": "Israel"
+        }
+    },
+    {
+        "model": "db.country",
+        "pk": 61,
+        "fields": {
+            "country_name": "India"
+        }
+    },
+    {
+        "model": "db.country",
+        "pk": 62,
+        "fields": {
+            "country_name": "Estonia"
+        }
+    },
+    {
+        "model": "db.country",
+        "pk": 63,
+        "fields": {
+            "country_name": "Portugal"
+        }
+    },
+    {
+        "model": "db.country",
+        "pk": 64,
+        "fields": {
+            "country_name": "Cyprus"
+        }
+    },
+    {
+        "model": "db.country",
+        "pk": 65,
+        "fields": {
+            "country_name": "Mexico"
+        }
+    },
+    {
+        "model": "db.country",
+        "pk": 66,
+        "fields": {
+            "country_name": "Lesotho"
+        }
+    },
+    {
+        "model": "db.country",
+        "pk": 67,
+        "fields": {
+            "country_name": "Algeria"
+        }
+    },
+    {
+        "model": "db.country",
+        "pk": 68,
+        "fields": {
+            "country_name": "Egypt"
+        }
+    },
+    {
+        "model": "db.country",
+        "pk": 69,
+        "fields": {
+            "country_name": "Latvia"
+        }
+    },
+    {
+        "model": "db.country",
+        "pk": 70,
+        "fields": {
+            "country_name": "Morocco"
+        }
+    },
+    {
+        "model": "db.country",
+        "pk": 71,
+        "fields": {
+            "country_name": "North Korea"
+        }
+    },
+    {
+        "model": "db.country",
+        "pk": 72,
+        "fields": {
+            "country_name": "Pakistan"
+        }
+    },
+    {
+        "model": "db.country",
+        "pk": 73,
+        "fields": {
+            "country_name": "Siberia"
+        }
+    }
+]
