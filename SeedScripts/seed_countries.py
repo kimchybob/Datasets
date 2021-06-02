@@ -7,7 +7,8 @@ with open('output/Countries.txt', 'r') as file:
 
 num = 1
 for i in content:
-    dataset.append({"model": "db.country",
+    dataset.append({
+        "model": "db.country",
         "pk": num,
         "fields": {
             "country_name": i

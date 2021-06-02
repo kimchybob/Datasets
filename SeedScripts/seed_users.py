@@ -2,6 +2,7 @@ import json
 from faker import Faker
 from passlib.hash import pbkdf2_sha256
 import random
+import pytz
 
 fake = Faker()
 
@@ -34,7 +35,7 @@ for user in emails:
         "pk": primary_key,
         "fields": {
             "password": pbkdf2_sha256.hash(fake.first_name()),
-            "last_login": str(fake.date_time()),
+            "last_login": str(fake.date_time(tzinfo=pytz.UTC)),
             "is_superuser": False,
             "email": user,
             "first_name": fake.first_name(),

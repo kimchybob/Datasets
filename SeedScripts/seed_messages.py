@@ -1,6 +1,7 @@
 import json
 import random
 from faker import Faker
+import pytz
 
 fake = Faker()
 
@@ -22,7 +23,7 @@ for i in range(1, 1000):
             "user_id": send_user_id,
             "message_room_id": message_room_id,
             "message_content": fake.sentence(),
-            "created_time": str(fake.date_time()),
+            "created_time": str(fake.date_time(tzinfo=pytz.UTC)),
         }
     })
 
