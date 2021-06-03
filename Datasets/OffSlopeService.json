@@ -1,0 +1,17 @@
+[
+    {
+        "model": "db.offslopeservice",
+        "pk": 1,
+        "fields": {
+            "provider_id": 1,
+            "max_group_size": 15,
+            "price_per_head": 100,
+            "additional_children_price":150,
+            "special_care_experience": true,
+            "can_drive_car": true,
+            "can_drive_own_car": false,
+            "child_working_credential_link": "www.google.com",
+            "driver_license_link": "www.amazon.com"
+        }
+    }
+]

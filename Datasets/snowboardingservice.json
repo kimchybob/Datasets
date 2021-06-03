@@ -1,0 +1,11 @@
+[
+    {
+        "model": "db.snowboardingservice",
+        "pk": 1,
+        "fields": {
+            "provider_id": 1,
+            "price_per_hour": 300,
+            "credential_link": "www.youku.com"
+        }
+    }
+]

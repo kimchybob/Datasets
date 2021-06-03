@@ -1,0 +1,11 @@
+[
+    {
+        "model": "db.skiingservice",
+        "pk": 1,
+        "fields": {
+            "provider_id": 1,
+            "price_per_hour": 100,
+            "credential_link": "www.youtube.com"
+        }
+    }
+]
